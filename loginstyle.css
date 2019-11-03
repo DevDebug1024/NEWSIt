@@ -65,7 +65,7 @@ input[type=button]{
 font-size: 16px;
 background: linear-gradient(#0DDC00 5%, #0DDC00 100%);
 border: 1px solid #489486;
-color: #bcd268;
+color: #1E201D;
 font-weight: bold;
 cursor: pointer;
 width: 100%;
@@ -74,5 +74,5 @@ padding: 10px 0;
 outline:none;
 }
 input[type=button]:hover{
-background: linear-gradient(#0DDC00 5%, #74FF33 100%);
+background: linear-gradient(#0DDC00 5%, #23CF15 100%);
 }
